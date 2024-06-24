@@ -54,19 +54,3 @@ you accomplish this task.
 
 ## Objective
 Make the failing test pass!
-
-# Disclaimer
-
-This skills assessment is part of your interview process and is not working time. This is a generic, open-ended assignment 
-created for the purpose of ascertaining your qualification and suitability for the job opening. The results of your skills assessment
-will not be used by the Company nor will we obtain useable work product from you. The Company does not extract any direct benefit from 
-your participation in the assessment.
-## License
-
-At CodeScreen, we strongly value the integrity and privacy of our assessments. As a result, this repository is under exclusive copyright, which means you **do not** have permission to share your solution to this test publicly (i.e., inside a public GitHub/GitLab repo, on Reddit, etc.). <br>
-
-## Submitting your solution
-
-Please push your changes to the `main branch` of this repository. You can push one or more commits. <br>
-
-Once you are finished with the task, please click the `Submit Solution` link on <a href="https://app.codescreen.com/candidate/79627649-8800-4274-99b6-d54390cddd8c" target="_blank">this screen</a>.
